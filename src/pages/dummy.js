@@ -774,7 +774,7 @@ export const medicalproBranding = {
   data: [
     {
       title: 'Due Date',
-      desc: 'Oct 23, 2022',
+      desc: 'Oct 23, 2021',
     },
     {
       title: 'Budget',
@@ -967,7 +967,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1037,7 +1037,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1107,7 +1107,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1177,7 +1177,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1247,7 +1247,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1317,7 +1317,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1387,7 +1387,7 @@ export const customersData = [
 
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -1456,7 +1456,7 @@ export const customersData = [
     CustomerID: 1039,
     CustomerName: 'Christopher Jamil',
     CustomerEmail: 'jamil@gmail.com',
-    ProjectName: 'MedicalPro WP Theme',
+    ProjectName: 'Jasmine's Theme',
     Status: 'Completed',
     CustomerImage:
       avatar,
@@ -3072,14 +3072,14 @@ export const lineChartData = [
 export const dropdownData = [
   {
     Id: '1',
-    Time: 'July 2022',
+    Time: 'March 2021',
   },
   {
     Id: '2',
-    Time: 'August 2022',
+    Time: 'April 2021',
   }, {
     Id: '3',
-    Time: 'September 2022',
+    Time: 'May 2021',
   },
 ];
 export const SparklineAreaData = [
