@@ -311,7 +311,7 @@ const Ecommerce = () => {
               <p className="font-semibold text-lg">New Inventory System - Version 3.1</p>
               <p className="text-gray-400 ">Secure Gallery Mangement Database</p>
               <p className="mt-8 text-sm text-gray-400">
-                Create Parts Requests, Shop Work Orders, View Part Status, View Bid History, Customer Contacts & more.
+                Create Parts Requests, Shop Work Orders, View Part Status, Part Storage Location, View Bid History, Customer Contacts, Part Inspection Results & more.
               </p>
               <div className="mt-3">
                 <Button
@@ -323,6 +323,9 @@ const Ecommerce = () => {
               </div>
             </div>
           </div>
+
+        
+
         </div>
       </div>
     </div>

@@ -450,7 +450,7 @@ export const employeesGrid = [
 
 export const links = [
   {
-    title: 'Dashboard',
+    title: 'Admin Dashboard',
     links: [
       {
         name: 'ecommerce',
