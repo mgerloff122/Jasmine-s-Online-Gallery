@@ -3554,7 +3554,7 @@ export const kanbanData = [
 
 export const financialChartData = [
   {
-    x: new Date('2012-04-02'),
+    x: new Date('2017-04-02'),
     open: 85.9757,
     high: 90.6657,
     low: 85.7685,
@@ -3562,7 +3562,7 @@ export const financialChartData = [
     volume: 660187068,
   },
   {
-    x: new Date('2012-04-09'),
+    x: new Date('2017-04-09'),
     open: 89.4471,
     high: 92,
     low: 86.2157,
@@ -3570,7 +3570,7 @@ export const financialChartData = [
     volume: 912634864,
   },
   {
-    x: new Date('2012-04-16'),
+    x: new Date('2017-04-16'),
     open: 87.1514,
     high: 88.6071,
     low: 81.4885,
@@ -3578,7 +3578,7 @@ export const financialChartData = [
     volume: 1221746066,
   },
   {
-    x: new Date('2012-04-23'),
+    x: new Date('2017-04-23'),
     open: 81.5157,
     high: 88.2857,
     low: 79.2857,
@@ -3586,7 +3586,7 @@ export const financialChartData = [
     volume: 965935749,
   },
   {
-    x: new Date('2012-04-30'),
+    x: new Date('2017-04-30'),
     open: 85.4,
     high: 85.4857,
     low: 80.7385,
@@ -3594,7 +3594,7 @@ export const financialChartData = [
     volume: 615249365,
   },
   {
-    x: new Date('2012-05-07'),
+    x: new Date('2017-05-07'),
     open: 80.2143,
     high: 82.2685,
     low: 79.8185,
@@ -3602,7 +3602,7 @@ export const financialChartData = [
     volume: 541742692,
   },
   {
-    x: new Date('2012-05-14'),
+    x: new Date('2017-05-14'),
     open: 80.3671,
     high: 81.0728,
     low: 74.5971,
@@ -3610,7 +3610,7 @@ export const financialChartData = [
     volume: 708126233,
   },
   {
-    x: new Date('2012-05-21'),
+    x: new Date('2017-05-21'),
     open: 76.3571,
     high: 82.3571,
     low: 76.2928,
@@ -3618,7 +3618,7 @@ export const financialChartData = [
     volume: 682076215,
   },
   {
-    x: new Date('2012-05-28'),
+    x: new Date('2017-05-28'),
     open: 81.5571,
     high: 83.0714,
     low: 80.0743,
@@ -3626,7 +3626,7 @@ export const financialChartData = [
     volume: 480059584,
   },
   {
-    x: new Date('2012-06-04'),
+    x: new Date('2017-06-04'),
     open: 80.2143,
     high: 82.9405,
     low: 78.3571,
@@ -3634,7 +3634,7 @@ export const financialChartData = [
     volume: 517577005,
   },
   {
-    x: new Date('2012-06-11'),
+    x: new Date('2017-06-11'),
     open: 83.96,
     high: 84.0714,
     low: 80.9571,
@@ -3642,7 +3642,7 @@ export const financialChartData = [
     volume: 499693120,
   },
   {
-    x: new Date('2012-06-18'),
+    x: new Date('2017-06-18'),
     open: 81.5657,
     high: 84.2857,
     low: 81.4814,
@@ -3650,7 +3650,7 @@ export const financialChartData = [
     volume: 442172142,
   },
   {
-    x: new Date('2012-06-25'),
+    x: new Date('2017-06-25'),
     open: 82.4714,
     high: 83.4285,
     low: 80.8014,
@@ -3658,7 +3658,7 @@ export const financialChartData = [
     volume: 371529102,
   },
   {
-    x: new Date('2012-07-02'),
+    x: new Date('2017-07-02'),
     open: 83.5328,
     high: 87.7628,
     low: 83.3714,
@@ -3666,7 +3666,7 @@ export const financialChartData = [
     volume: 385906790,
   },
   {
-    x: new Date('2012-07-09'),
+    x: new Date('2017-07-09'),
     open: 86.4714,
     high: 88.5528,
     low: 84.6685,
@@ -3674,7 +3674,7 @@ export const financialChartData = [
     volume: 524235196,
   },
   {
-    x: new Date('2012-07-16'),
+    x: new Date('2017-07-16'),
     open: 86.4457,
     high: 87.9071,
     low: 86.1643,
@@ -3682,7 +3682,7 @@ export const financialChartData = [
     volume: 419537217,
   },
   {
-    x: new Date('2012-07-23'),
+    x: new Date('2017-07-23'),
     open: 84.9143,
     high: 87.0971,
     low: 81.4285,
@@ -3690,7 +3690,7 @@ export const financialChartData = [
     volume: 680773023,
   },
   {
-    x: new Date('2012-07-30'),
+    x: new Date('2017-07-30'),
     open: 84.4171,
     high: 88.2828,
     low: 83.9743,
@@ -3698,7 +3698,7 @@ export const financialChartData = [
     volume: 475109323,
   },
   {
-    x: new Date('2012-08-06'),
+    x: new Date('2017-08-06'),
     open: 88.1843,
     high: 89.2857,
     low: 87.8943,
@@ -3706,7 +3706,7 @@ export const financialChartData = [
     volume: 312826308,
   },
   {
-    x: new Date('2012-08-13'),
+    x: new Date('2017-08-13'),
     open: 89.0557,
     high: 92.5985,
     low: 89.0357,
@@ -3714,7 +3714,7 @@ export const financialChartData = [
     volume: 392867193,
   },
   {
-    x: new Date('2012-08-20'),
+    x: new Date('2017-08-20'),
     open: 92.8585,
     high: 96.4114,
     low: 92.5871,
@@ -3722,7 +3722,7 @@ export const financialChartData = [
     volume: 708614692,
   },
   {
-    x: new Date('2012-08-27'),
+    x: new Date('2017-08-27'),
     open: 97.1414,
     high: 97.2671,
     low: 93.8928,
@@ -3730,7 +3730,7 @@ export const financialChartData = [
     volume: 383807217,
   },
   {
-    x: new Date('2012-09-03'),
+    x: new Date('2017-09-03'),
     open: 95.1085,
     high: 97.4971,
     low: 94.9285,
@@ -3738,7 +3738,7 @@ export const financialChartData = [
     volume: 355722047,
   },
   {
-    x: new Date('2012-09-10'),
+    x: new Date('2017-09-10'),
     open: 97.2071,
     high: 99.5685,
     low: 93.7143,
@@ -3746,7 +3746,7 @@ export const financialChartData = [
     volume: 724042207,
   },
   {
-    x: new Date('2012-09-17'),
+    x: new Date('2017-09-17'),
     open: 99.9071,
     high: 100.7243,
     low: 99.0885,
@@ -3754,7 +3754,7 @@ export const financialChartData = [
     volume: 500166040,
   },
   {
-    x: new Date('2012-09-24'),
+    x: new Date('2017-09-24'),
     open: 98.1228,
     high: 99.3028,
     low: 94.3357,
@@ -3762,7 +3762,7 @@ export const financialChartData = [
     volume: 714507994,
   },
   {
-    x: new Date('2012-10-01'),
+    x: new Date('2017-10-01'),
     open: 95.88,
     high: 96.6785,
     low: 92.95,
@@ -3770,7 +3770,7 @@ export const financialChartData = [
     volume: 638543622,
   },
   {
-    x: new Date('2012-10-08'),
+    x: new Date('2017-10-08'),
     open: 92.4114,
     high: 92.5085,
     low: 89.0785,
@@ -3778,7 +3778,7 @@ export const financialChartData = [
     volume: 747127724,
   },
   {
-    x: new Date('2012-10-15'),
+    x: new Date('2017-10-15'),
     open: 90.3357,
     high: 93.2557,
     low: 87.0885,
@@ -3786,7 +3786,7 @@ export const financialChartData = [
     volume: 646996264,
   },
   {
-    x: new Date('2012-10-22'),
+    x: new Date('2017-10-22'),
     open: 87.4885,
     high: 90.7685,
     low: 84.4285,
@@ -3794,7 +3794,7 @@ export const financialChartData = [
     volume: 866040680,
   },
   {
-    x: new Date('2012-10-29'),
+    x: new Date('2017-10-29'),
     open: 84.9828,
     high: 86.1428,
     low: 82.1071,
@@ -3802,7 +3802,7 @@ export const financialChartData = [
     volume: 367371310,
   },
   {
-    x: new Date('2012-11-05'),
+    x: new Date('2017-11-05'),
     open: 83.3593,
     high: 84.3914,
     low: 76.2457,
@@ -3810,7 +3810,7 @@ export const financialChartData = [
     volume: 919719846,
   },
   {
-    x: new Date('2012-11-12'),
+    x: new Date('2017-11-12'),
     open: 79.1643,
     high: 79.2143,
     low: 72.25,
@@ -3818,7 +3818,7 @@ export const financialChartData = [
     volume: 894382149,
   },
   {
-    x: new Date('2012-11-19'),
+    x: new Date('2017-11-19'),
     open: 77.2443,
     high: 81.7143,
     low: 77.1257,
@@ -3826,7 +3826,7 @@ export const financialChartData = [
     volume: 527416747,
   },
   {
-    x: new Date('2012-11-26'),
+    x: new Date('2017-11-26'),
     open: 82.2714,
     high: 84.8928,
     low: 81.7514,
@@ -3834,7 +3834,7 @@ export const financialChartData = [
     volume: 646467974,
   },
   {
-    x: new Date('2012-12-03'),
+    x: new Date('2017-12-03'),
     open: 84.8071,
     high: 84.9414,
     low: 74.09,
@@ -3842,7 +3842,7 @@ export const financialChartData = [
     volume: 980096264,
   },
   {
-    x: new Date('2012-12-10'),
+    x: new Date('2017-12-10'),
     open: 75,
     high: 78.5085,
     low: 72.2257,
@@ -3850,7 +3850,7 @@ export const financialChartData = [
     volume: 835016110,
   },
   {
-    x: new Date('2012-12-17'),
+    x: new Date('2017-12-17'),
     open: 72.7043,
     high: 76.4143,
     low: 71.6043,
@@ -3858,7 +3858,7 @@ export const financialChartData = [
     volume: 726150329,
   },
   {
-    x: new Date('2012-12-24'),
+    x: new Date('2017-12-24'),
     open: 74.3357,
     high: 74.8928,
     low: 72.0943,
@@ -3866,7 +3866,7 @@ export const financialChartData = [
     volume: 321104733,
   },
   {
-    x: new Date('2012-12-31'),
+    x: new Date('2017-12-31'),
     open: 72.9328,
     high: 79.2857,
     low: 72.7143,
@@ -3874,7 +3874,7 @@ export const financialChartData = [
     volume: 540854882,
   },
   {
-    x: new Date('2013-01-07'),
+    x: new Date('2018-01-07'),
     open: 74.5714,
     high: 75.9843,
     low: 73.6,
@@ -3882,7 +3882,7 @@ export const financialChartData = [
     volume: 574594262,
   },
   {
-    x: new Date('2013-01-14'),
+    x: new Date('2018-01-14'),
     open: 71.8114,
     high: 72.9643,
     low: 69.0543,
@@ -3890,7 +3890,7 @@ export const financialChartData = [
     volume: 803105621,
   },
   {
-    x: new Date('2013-01-21'),
+    x: new Date('2018-01-21'),
     open: 72.08,
     high: 73.57,
     low: 62.1428,
@@ -3898,7 +3898,7 @@ export const financialChartData = [
     volume: 971912560,
   },
   {
-    x: new Date('2013-01-28'),
+    x: new Date('2018-01-28'),
     open: 62.5464,
     high: 66.0857,
     low: 62.2657,
@@ -3906,7 +3906,7 @@ export const financialChartData = [
     volume: 656549587,
   },
   {
-    x: new Date('2013-02-04'),
+    x: new Date('2018-02-04'),
     open: 64.8443,
     high: 68.4014,
     low: 63.1428,
@@ -3914,7 +3914,7 @@ export const financialChartData = [
     volume: 743778993,
   },
   {
-    x: new Date('2013-02-11'),
+    x: new Date('2018-02-11'),
     open: 68.0714,
     high: 69.2771,
     low: 65.7028,
@@ -3922,7 +3922,7 @@ export const financialChartData = [
     volume: 585292366,
   },
   {
-    x: new Date('2013-02-18'),
+    x: new Date('2018-02-18'),
     open: 65.8714,
     high: 66.1043,
     low: 63.26,
@@ -3930,7 +3930,7 @@ export const financialChartData = [
     volume: 421766997,
   },
   {
-    x: new Date('2013-02-25'),
+    x: new Date('2018-02-25'),
     open: 64.8357,
     high: 65.0171,
     low: 61.4257,
@@ -3938,7 +3938,7 @@ export const financialChartData = [
     volume: 582741215,
   },
   {
-    x: new Date('2013-03-04'),
+    x: new Date('2018-03-04'),
     open: 61.1143,
     high: 62.2043,
     low: 59.8571,
@@ -3946,7 +3946,7 @@ export const financialChartData = [
     volume: 632856539,
   },
   {
-    x: new Date('2013-03-11'),
+    x: new Date('2018-03-11'),
     open: 61.3928,
     high: 63.4614,
     low: 60.7343,
@@ -3954,7 +3954,7 @@ export const financialChartData = [
     volume: 572066981,
   },
   {
-    x: new Date('2013-03-18'),
+    x: new Date('2018-03-18'),
     open: 63.0643,
     high: 66.0143,
     low: 63.0286,
@@ -3962,7 +3962,7 @@ export const financialChartData = [
     volume: 552156035,
   },
   {
-    x: new Date('2013-03-25'),
+    x: new Date('2018-03-25'),
     open: 66.3843,
     high: 67.1357,
     low: 63.0886,
@@ -3970,7 +3970,7 @@ export const financialChartData = [
     volume: 390762517,
   },
   {
-    x: new Date('2013-04-01'),
+    x: new Date('2018-04-01'),
     open: 63.1286,
     high: 63.3854,
     low: 59.9543,
@@ -3978,7 +3978,7 @@ export const financialChartData = [
     volume: 505273732,
   },
   {
-    x: new Date('2013-04-08'),
+    x: new Date('2018-04-08'),
     open: 60.6928,
     high: 62.57,
     low: 60.3557,
@@ -3986,7 +3986,7 @@ export const financialChartData = [
     volume: 387323550,
   },
   {
-    x: new Date('2013-04-15'),
+    x: new Date('2018-04-15'),
     open: 61,
     high: 61.1271,
     low: 55.0143,
@@ -3994,7 +3994,7 @@ export const financialChartData = [
     volume: 709945604,
   },
   {
-    x: new Date('2013-04-22'),
+    x: new Date('2018-04-22'),
     open: 56.0914,
     high: 59.8241,
     low: 55.8964,
@@ -4002,7 +4002,7 @@ export const financialChartData = [
     volume: 787007506,
   },
   {
-    x: new Date('2013-04-29'),
+    x: new Date('2018-04-29'),
     open: 60.0643,
     high: 64.7471,
     low: 60,
@@ -4010,7 +4010,7 @@ export const financialChartData = [
     volume: 655020017,
   },
   {
-    x: new Date('2013-05-06'),
+    x: new Date('2018-05-06'),
     open: 65.1014,
     high: 66.5357,
     low: 64.3543,
@@ -4018,7 +4018,7 @@ export const financialChartData = [
     volume: 545488533,
   },
   {
-    x: new Date('2013-05-13'),
+    x: new Date('2018-05-13'),
     open: 64.5014,
     high: 65.4143,
     low: 59.8428,
@@ -4026,7 +4026,7 @@ export const financialChartData = [
     volume: 633706550,
   },
   {
-    x: new Date('2013-05-20'),
+    x: new Date('2018-05-20'),
     open: 61.7014,
     high: 64.05,
     low: 61.4428,
@@ -4034,7 +4034,7 @@ export const financialChartData = [
     volume: 494379068,
   },
   {
-    x: new Date('2013-05-27'),
+    x: new Date('2018-05-27'),
     open: 64.2714,
     high: 65.3,
     low: 62.7714,
@@ -4042,7 +4042,7 @@ export const financialChartData = [
     volume: 362907830,
   },
   {
-    x: new Date('2013-06-03'),
+    x: new Date('2018-06-03'),
     open: 64.39,
     high: 64.9186,
     low: 61.8243,
@@ -4050,7 +4050,7 @@ export const financialChartData = [
     volume: 443249793,
   },
   {
-    x: new Date('2013-06-10'),
+    x: new Date('2018-06-10'),
     open: 63.5328,
     high: 64.1541,
     low: 61.2143,
@@ -4058,7 +4058,7 @@ export const financialChartData = [
     volume: 389680092,
   },
   {
-    x: new Date('2013-06-17'),
+    x: new Date('2018-06-17'),
     open: 61.6343,
     high: 62.2428,
     low: 58.3,
@@ -4066,7 +4066,7 @@ export const financialChartData = [
     volume: 400384818,
   },
   {
-    x: new Date('2013-06-24'),
+    x: new Date('2018-06-24'),
     open: 58.2,
     high: 58.38,
     low: 55.5528,
@@ -4074,7 +4074,7 @@ export const financialChartData = [
     volume: 519314826,
   },
   {
-    x: new Date('2013-07-01'),
+    x: new Date('2018-07-01'),
     open: 57.5271,
     high: 60.47,
     low: 57.3171,
@@ -4082,7 +4082,7 @@ export const financialChartData = [
     volume: 343878841,
   },
   {
-    x: new Date('2013-07-08'),
+    x: new Date('2018-07-08'),
     open: 60.0157,
     high: 61.3986,
     low: 58.6257,
@@ -4090,7 +4090,7 @@ export const financialChartData = [
     volume: 384106977,
   },
   {
-    x: new Date('2013-07-15'),
+    x: new Date('2018-07-15'),
     open: 60.7157,
     high: 62.1243,
     low: 60.5957,
@@ -4098,7 +4098,7 @@ export const financialChartData = [
     volume: 286035513,
   },
   {
-    x: new Date('2013-07-22'),
+    x: new Date('2018-07-22'),
     open: 61.3514,
     high: 63.5128,
     low: 59.8157,
@@ -4106,7 +4106,7 @@ export const financialChartData = [
     volume: 395816827,
   },
   {
-    x: new Date('2013-07-29'),
+    x: new Date('2018-07-29'),
     open: 62.9714,
     high: 66.1214,
     low: 62.8857,
@@ -4114,7 +4114,7 @@ export const financialChartData = [
     volume: 339668858,
   },
   {
-    x: new Date('2013-08-05'),
+    x: new Date('2018-08-05'),
     open: 66.3843,
     high: 67.4128,
     low: 64.8071,
@@ -4122,7 +4122,7 @@ export const financialChartData = [
     volume: 368486781,
   },
   {
-    x: new Date('2013-08-12'),
+    x: new Date('2018-08-12'),
     open: 65.2657,
     high: 72.0357,
     low: 65.2328,
@@ -4130,7 +4130,7 @@ export const financialChartData = [
     volume: 711563584,
   },
   {
-    x: new Date('2013-08-19'),
+    x: new Date('2018-08-19'),
     open: 72.0485,
     high: 73.3914,
     low: 71.1714,
@@ -4138,7 +4138,7 @@ export const financialChartData = [
     volume: 417119660,
   },
   {
-    x: new Date('2013-08-26'),
+    x: new Date('2018-08-26'),
     open: 71.5357,
     high: 72.8857,
     low: 69.4286,
@@ -4146,7 +4146,7 @@ export const financialChartData = [
     volume: 392805888,
   },
   {
-    x: new Date('2013-09-02'),
+    x: new Date('2018-09-02'),
     open: 70.4428,
     high: 71.7485,
     low: 69.6214,
@@ -4154,7 +4154,7 @@ export const financialChartData = [
     volume: 317244380,
   },
   {
-    x: new Date('2013-09-09'),
+    x: new Date('2018-09-09'),
     open: 72.1428,
     high: 72.56,
     low: 66.3857,
@@ -4162,7 +4162,7 @@ export const financialChartData = [
     volume: 669376320,
   },
   {
-    x: new Date('2013-09-16'),
+    x: new Date('2018-09-16'),
     open: 65.8571,
     high: 68.3643,
     low: 63.8886,
@@ -4170,7 +4170,7 @@ export const financialChartData = [
     volume: 625142677,
   },
   {
-    x: new Date('2013-09-23'),
+    x: new Date('2018-09-23'),
     open: 70.8714,
     high: 70.9871,
     low: 68.6743,
@@ -4178,7 +4178,7 @@ export const financialChartData = [
     volume: 475274537,
   },
   {
-    x: new Date('2013-09-30'),
+    x: new Date('2018-09-30'),
     open: 68.1786,
     high: 70.3357,
     low: 67.773,
@@ -4186,7 +4186,7 @@ export const financialChartData = [
     volume: 368198906,
   },
   {
-    x: new Date('2013-10-07'),
+    x: new Date('2018-10-07'),
     open: 69.5086,
     high: 70.5486,
     low: 68.3257,
@@ -4194,7 +4194,7 @@ export const financialChartData = [
     volume: 361437661,
   },
   {
-    x: new Date('2013-10-14'),
+    x: new Date('2018-10-14'),
     open: 69.9757,
     high: 72.7514,
     low: 69.9071,
@@ -4202,7 +4202,7 @@ export const financialChartData = [
     volume: 342694379,
   },
   {
-    x: new Date('2013-10-21'),
+    x: new Date('2018-10-21'),
     open: 73.11,
     high: 76.1757,
     low: 72.5757,
@@ -4210,7 +4210,7 @@ export const financialChartData = [
     volume: 490458997,
   },
   {
-    x: new Date('2013-10-28'),
+    x: new Date('2018-10-28'),
     open: 75.5771,
     high: 77.0357,
     low: 73.5057,
@@ -4218,7 +4218,7 @@ export const financialChartData = [
     volume: 508130174,
   },
   {
-    x: new Date('2013-11-04'),
+    x: new Date('2018-11-04'),
     open: 74.4428,
     high: 75.555,
     low: 73.1971,
@@ -4226,7 +4226,7 @@ export const financialChartData = [
     volume: 318132218,
   },
   {
-    x: new Date('2013-11-11'),
+    x: new Date('2018-11-11'),
     open: 74.2843,
     high: 75.6114,
     low: 73.4871,
@@ -4234,7 +4234,7 @@ export const financialChartData = [
     volume: 306711021,
   },
   {
-    x: new Date('2013-11-18'),
+    x: new Date('2018-11-18'),
     open: 74.9985,
     high: 75.3128,
     low: 73.3814,
@@ -4242,7 +4242,7 @@ export const financialChartData = [
     volume: 282778778,
   },
   {
-    x: new Date('2013-11-25'),
+    x: new Date('2018-11-25'),
     open: 74.4314,
     high: 79.7614,
     low: 74.4285,
@@ -4250,7 +4250,7 @@ export const financialChartData = [
     volume: 327405302,
   },
   {
-    x: new Date('2013-12-02'),
+    x: new Date('2018-12-02'),
     open: 79.7143,
     high: 82.1622,
     low: 78.6885,
@@ -4258,7 +4258,7 @@ export const financialChartData = [
     volume: 522055676,
   },
   {
-    x: new Date('2013-12-09'),
+    x: new Date('2018-12-09'),
     open: 80.1286,
     high: 81.5671,
     low: 79.0957,
@@ -4266,7 +4266,7 @@ export const financialChartData = [
     volume: 387271099,
   },
   {
-    x: new Date('2013-12-16'),
+    x: new Date('2018-12-16'),
     open: 79.2885,
     high: 80.377,
     low: 76.9714,
@@ -4274,7 +4274,7 @@ export const financialChartData = [
     volume: 457580848,
   },
   {
-    x: new Date('2013-12-23'),
+    x: new Date('2018-12-23'),
     open: 81.1428,
     high: 81.6971,
     low: 79.9285,
@@ -4282,7 +4282,7 @@ export const financialChartData = [
     volume: 274253503,
   },
   {
-    x: new Date('2013-12-30'),
+    x: new Date('2018-12-30'),
     open: 79.6371,
     high: 80.1828,
     low: 77.2043,
@@ -4290,7 +4290,7 @@ export const financialChartData = [
     volume: 275734934,
   },
   {
-    x: new Date('2014-01-06'),
+    x: new Date('2019-01-06'),
     open: 76.7785,
     high: 78.1228,
     low: 75.8728,
@@ -4298,7 +4298,7 @@ export const financialChartData = [
     volume: 393462075,
   },
   {
-    x: new Date('2014-01-13'),
+    x: new Date('2019-01-13'),
     open: 75.7014,
     high: 80.0285,
     low: 75.6971,
@@ -4306,7 +4306,7 @@ export const financialChartData = [
     volume: 439557459,
   },
   {
-    x: new Date('2014-01-20'),
+    x: new Date('2019-01-20'),
     open: 77.2843,
     high: 79.6128,
     low: 77.2028,
@@ -4314,7 +4314,7 @@ export const financialChartData = [
     volume: 385585525,
   },
   {
-    x: new Date('2014-01-27'),
+    x: new Date('2019-01-27'),
     open: 78.5814,
     high: 79.2571,
     low: 70.5071,
@@ -4322,7 +4322,7 @@ export const financialChartData = [
     volume: 813702575,
   },
   {
-    x: new Date('2014-02-03'),
+    x: new Date('2019-02-03'),
     open: 71.8014,
     high: 74.7042,
     low: 71.3286,
@@ -4330,7 +4330,7 @@ export const financialChartData = [
     volume: 434447570,
   },
   {
-    x: new Date('2014-02-10'),
+    x: new Date('2019-02-10'),
     open: 74.0943,
     high: 77.9971,
     low: 74,
@@ -4338,7 +4338,7 @@ export const financialChartData = [
     volume: 379011880,
   },
   {
-    x: new Date('2014-02-17'),
+    x: new Date('2019-02-17'),
     open: 78,
     high: 78.7414,
     low: 74.9428,
@@ -4346,7 +4346,7 @@ export const financialChartData = [
     volume: 289609443,
   },
   {
-    x: new Date('2014-02-24'),
+    x: new Date('2019-02-24'),
     open: 74.7357,
     high: 76.1071,
     low: 73.6571,
@@ -4354,7 +4354,7 @@ export const financialChartData = [
     volume: 367569649,
   },
   {
-    x: new Date('2014-03-03'),
+    x: new Date('2019-03-03'),
     open: 74.7743,
     high: 76.3928,
     low: 74.6871,
@@ -4362,7 +4362,7 @@ export const financialChartData = [
     volume: 275972640,
   },
   {
-    x: new Date('2014-03-10'),
+    x: new Date('2019-03-10'),
     open: 75.48,
     high: 77.0943,
     low: 74.7143,
@@ -4370,7 +4370,7 @@ export const financialChartData = [
     volume: 287729528,
   },
   {
-    x: new Date('2014-03-17'),
+    x: new Date('2019-03-17'),
     open: 75.3857,
     high: 76.6057,
     low: 75.0286,
@@ -4378,7 +4378,7 @@ export const financialChartData = [
     volume: 303531061,
   },
   {
-    x: new Date('2014-03-24'),
+    x: new Date('2019-03-24'),
     open: 76.9171,
     high: 78.4285,
     low: 76.3214,
@@ -4386,7 +4386,7 @@ export const financialChartData = [
     volume: 338387221,
   },
   {
-    x: new Date('2014-03-31'),
+    x: new Date('2019-03-31'),
     open: 77.0328,
     high: 77.64,
     low: 75.7971,
@@ -4394,7 +4394,7 @@ export const financialChartData = [
     volume: 245749459,
   },
   {
-    x: new Date('2014-04-07'),
+    x: new Date('2019-04-07'),
     open: 75.4314,
     high: 76.0343,
     low: 73.8771,
@@ -4402,7 +4402,7 @@ export const financialChartData = [
     volume: 312008139,
   },
   {
-    x: new Date('2014-04-14'),
+    x: new Date('2019-04-14'),
     open: 74.5571,
     high: 75.3943,
     low: 73.0471,
@@ -4410,7 +4410,7 @@ export const financialChartData = [
     volume: 241209047,
   },
   {
-    x: new Date('2014-04-21'),
+    x: new Date('2019-04-21'),
     open: 75.0485,
     high: 81.7128,
     low: 74.8514,
@@ -4418,7 +4418,7 @@ export const financialChartData = [
     volume: 476651465,
   },
   {
-    x: new Date('2014-04-28'),
+    x: new Date('2019-04-28'),
     open: 81.8285,
     high: 85.6328,
     low: 81.7928,
@@ -4426,7 +4426,7 @@ export const financialChartData = [
     volume: 473712709,
   },
   {
-    x: new Date('2014-05-05'),
+    x: new Date('2019-05-05'),
     open: 84.3057,
     high: 86.3442,
     low: 82.9043,
@@ -4434,7 +4434,7 @@ export const financialChartData = [
     volume: 365535013,
   },
   {
-    x: new Date('2014-05-12'),
+    x: new Date('2019-05-12'),
     open: 83.9271,
     high: 85.3614,
     low: 83.6285,
@@ -4442,7 +4442,7 @@ export const financialChartData = [
     volume: 260931637,
   },
   {
-    x: new Date('2014-05-19'),
+    x: new Date('2019-05-19'),
     open: 85.4071,
     high: 87.8184,
     low: 85.3328,
@@ -4450,7 +4450,7 @@ export const financialChartData = [
     volume: 294298274,
   },
   {
-    x: new Date('2014-05-26'),
+    x: new Date('2019-05-26'),
     open: 87.9828,
     high: 92.0243,
     low: 87.9471,
@@ -4458,7 +4458,7 @@ export const financialChartData = [
     volume: 400232120,
   },
   {
-    x: new Date('2014-06-02'),
+    x: new Date('2019-06-02'),
     open: 90.5657,
     high: 93.0371,
     low: 88.9285,
@@ -4466,7 +4466,7 @@ export const financialChartData = [
     volume: 412158024,
   },
   {
-    x: new Date('2014-06-09'),
+    x: new Date('2019-06-09'),
     open: 92.7,
     high: 95.05,
     low: 90.88,
@@ -4474,7 +4474,7 @@ export const financialChartData = [
     volume: 292422550,
   },
   {
-    x: new Date('2014-06-16'),
+    x: new Date('2019-06-16'),
     open: 91.51,
     high: 92.75,
     low: 90.9,
@@ -4482,7 +4482,7 @@ export const financialChartData = [
     volume: 234325480,
   },
   {
-    x: new Date('2014-06-23'),
+    x: new Date('2019-06-23'),
     open: 91.32,
     high: 92,
     low: 89.65,
@@ -4490,7 +4490,7 @@ export const financialChartData = [
     volume: 213712160,
   },
   {
-    x: new Date('2014-06-30'),
+    x: new Date('2019-06-30'),
     open: 92.1,
     high: 94.1,
     low: 92.09,
@@ -4498,7 +4498,7 @@ export const financialChartData = [
     volume: 138936570,
   },
   {
-    x: new Date('2014-07-07'),
+    x: new Date('2019-07-07'),
     open: 94.14,
     high: 96.8,
     low: 93.52,
@@ -4506,7 +4506,7 @@ export const financialChartData = [
     volume: 229782440,
   },
   {
-    x: new Date('2014-07-14'),
+    x: new Date('2019-07-14'),
     open: 95.86,
     high: 97.1,
     low: 92.57,
@@ -4514,7 +4514,7 @@ export const financialChartData = [
     volume: 248104390,
   },
   {
-    x: new Date('2014-07-21'),
+    x: new Date('2019-07-21'),
     open: 94.99,
     high: 97.88,
     low: 93.72,
@@ -4522,7 +4522,7 @@ export const financialChartData = [
     volume: 273021350,
   },
   {
-    x: new Date('2014-07-28'),
+    x: new Date('2019-07-28'),
     open: 97.82,
     high: 99.44,
     low: 94.81,
@@ -4530,7 +4530,7 @@ export const financialChartData = [
     volume: 235868530,
   },
   {
-    x: new Date('2014-08-04'),
+    x: new Date('2019-08-04'),
     open: 96.37,
     high: 96.58,
     low: 93.28,
@@ -5594,7 +5594,7 @@ export const financialChartData = [
     volume: 136326260,
   },
   {
-    x: new Date('2017-02-20'),
+    x: new Date('2022-02-20'),
     open: 136.23,
     high: 137.48,
     low: 135.28,
@@ -5602,7 +5602,7 @@ export const financialChartData = [
     volume: 87773190,
   },
   {
-    x: new Date('2017-02-27'),
+    x: new Date('2022-02-27'),
     open: 137.14,
     high: 140.2786,
     low: 136.28,
@@ -5610,7 +5610,7 @@ export const financialChartData = [
     volume: 127757050,
   },
   {
-    x: new Date('2017-03-06'),
+    x: new Date('2022-03-06'),
     open: 139.365,
     high: 139.98,
     low: 137.05,
@@ -5618,7 +5618,7 @@ export const financialChartData = [
     volume: 99061270,
   },
   {
-    x: new Date('2017-03-13'),
+    x: new Date('2022-03-13'),
     open: 138.85,
     high: 141.02,
     low: 138.82,
@@ -5626,7 +5626,7 @@ export const financialChartData = [
     volume: 120881720,
   },
   {
-    x: new Date('2017-03-20'),
+    x: new Date('2022-03-20'),
     open: 140.4,
     high: 142.8,
     low: 139.73,
@@ -5634,7 +5634,7 @@ export const financialChartData = [
     volume: 129178500,
   },
   {
-    x: new Date('2017-03-27'),
+    x: new Date('2022-03-27'),
     open: 139.39,
     high: 144.5,
     low: 138.62,
@@ -5642,7 +5642,7 @@ export const financialChartData = [
     volume: 126819590,
   },
   {
-    x: new Date('2017-04-03'),
+    x: new Date('2022-04-03'),
     open: 143.71,
     high: 145.46,
     low: 143.05,
@@ -5650,7 +5650,7 @@ export const financialChartData = [
     volume: 105274540,
   },
   {
-    x: new Date('2017-04-10'),
+    x: new Date('2022-04-10'),
     open: 143.6,
     high: 143.8792,
     low: 140.06,
@@ -5658,7 +5658,7 @@ export const financialChartData = [
     volume: 87342130,
   },
   {
-    x: new Date('2017-04-17'),
+    x: new Date('2022-04-17'),
     open: 141.48,
     high: 142.92,
     low: 140.45,
@@ -5666,7 +5666,7 @@ export const financialChartData = [
     volume: 89092650,
   },
   {
-    x: new Date('2017-04-24'),
+    x: new Date('2022-04-24'),
     open: 143.5,
     high: 144.9,
     low: 143.18,
@@ -5674,7 +5674,7 @@ export const financialChartData = [
     volume: 90423600,
   },
   {
-    x: new Date('2017-05-01'),
+    x: new Date('2022-05-01'),
     open: 145.1,
     high: 148.98,
     low: 144.27,
@@ -5682,7 +5682,7 @@ export const financialChartData = [
     volume: 173861760,
   },
   {
-    x: new Date('2017-05-08'),
+    x: new Date('2022-05-08'),
     open: 149.03,
     high: 156.42,
     low: 149.03,
@@ -5690,7 +5690,7 @@ export const financialChartData = [
     volume: 173087500,
   },
   {
-    x: new Date('2017-05-15'),
+    x: new Date('2022-05-15'),
     open: 156.01,
     high: 156.65,
     low: 149.71,
@@ -5698,7 +5698,7 @@ export const financialChartData = [
     volume: 156993820,
   },
   {
-    x: new Date('2017-05-22'),
+    x: new Date('2022-05-22'),
     open: 154,
     high: 154.9,
     low: 152.67,
@@ -5706,7 +5706,7 @@ export const financialChartData = [
     volume: 103151450,
   },
   {
-    x: new Date('2017-05-29'),
+    x: new Date('2022-05-29'),
     open: 153.42,
     high: 155.45,
     low: 152.22,
@@ -5714,7 +5714,7 @@ export const financialChartData = [
     volume: 88670120,
   },
   {
-    x: new Date('2017-06-05'),
+    x: new Date('2022-06-05'),
     open: 154.34,
     high: 155.98,
     low: 146.02,
@@ -5722,7 +5722,7 @@ export const financialChartData = [
     volume: 158814040,
   },
   {
-    x: new Date('2017-06-12'),
+    x: new Date('2022-06-12'),
     open: 145.74,
     high: 147.5,
     low: 142.2,
@@ -5730,7 +5730,7 @@ export const financialChartData = [
     volume: 219638930,
   },
   {
-    x: new Date('2017-06-19'),
+    x: new Date('2022-06-19'),
     open: 143.66,
     high: 147.16,
     low: 143.66,
@@ -5738,7 +5738,7 @@ export const financialChartData = [
     volume: 132832660,
   },
   {
-    x: new Date('2017-06-26'),
+    x: new Date('2022-06-26'),
     open: 147.17,
     high: 148.28,
     low: 142.28,
@@ -5746,7 +5746,7 @@ export const financialChartData = [
     volume: 126890110,
   },
   {
-    x: new Date('2017-07-03'),
+    x: new Date('2022-07-03'),
     open: 144.88,
     high: 145.3001,
     low: 142.41,
@@ -5754,7 +5754,7 @@ export const financialChartData = [
     volume: 78465450,
   },
   {
-    x: new Date('2017-07-10'),
+    x: new Date('2022-07-10'),
     open: 144.11,
     high: 149.33,
     low: 143.37,
@@ -5762,7 +5762,7 @@ export const financialChartData = [
     volume: 109759170,
   },
   {
-    x: new Date('2017-07-17'),
+    x: new Date('2022-07-17'),
     open: 148.82,
     high: 151.74,
     low: 148.57,
@@ -5770,7 +5770,7 @@ export const financialChartData = [
     volume: 104744470,
   },
   {
-    x: new Date('2017-07-24'),
+    x: new Date('2022-07-24'),
     open: 150.58,
     high: 153.99,
     low: 147.3,
@@ -5778,7 +5778,7 @@ export const financialChartData = [
     volume: 105536280,
   },
   {
-    x: new Date('2017-07-31'),
+    x: new Date('2022-07-31'),
     open: 149.9,
     high: 159.75,
     low: 148.13,
@@ -5786,7 +5786,7 @@ export const financialChartData = [
     volume: 170204830,
   },
   {
-    x: new Date('2017-08-07'),
+    x: new Date('2022-08-07'),
     open: 157.06,
     high: 161.83,
     low: 154.63,
@@ -5794,7 +5794,7 @@ export const financialChartData = [
     volume: 149860480,
   },
   {
-    x: new Date('2017-08-14'),
+    x: new Date('2022-08-14'),
     open: 159.32,
     high: 162.51,
     low: 156.72,
@@ -5802,7 +5802,7 @@ export const financialChartData = [
     volume: 133829670,
   },
   {
-    x: new Date('2017-08-21'),
+    x: new Date('2022-08-21'),
     open: 157.5,
     high: 160.74,
     low: 155.1101,
@@ -5810,7 +5810,7 @@ export const financialChartData = [
     volume: 112238670,
   },
   {
-    x: new Date('2017-08-28'),
+    x: new Date('2022-08-28'),
     open: 160.14,
     high: 164.94,
     low: 159.93,
@@ -5818,7 +5818,7 @@ export const financialChartData = [
     volume: 125610990,
   },
   {
-    x: new Date('2017-09-04'),
+    x: new Date('2022-09-04'),
     open: 163.75,
     high: 164.25,
     low: 158.53,
@@ -5826,7 +5826,7 @@ export const financialChartData = [
     volume: 101419110,
   },
   {
-    x: new Date('2017-09-11'),
+    x: new Date('2022-09-11'),
     open: 160.5,
     high: 163.96,
     low: 157.91,
@@ -5834,7 +5834,7 @@ export const financialChartData = [
     volume: 220431100,
   },
   {
-    x: new Date('2017-09-18'),
+    x: new Date('2022-09-18'),
     open: 160.11,
     high: 160.5,
     low: 157.995,
