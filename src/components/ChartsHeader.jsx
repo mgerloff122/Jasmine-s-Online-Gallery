@@ -2,7 +2,7 @@ import React from 'react'
 
 const ChartsHeader = () => {
   return (
-    <div>ChartsHeader</div>
+    <div>Jasmine's Online Charts</div>
   )
 }
 
